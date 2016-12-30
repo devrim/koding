@@ -28,7 +28,7 @@ ContentModal = require 'app/components/contentModal'
 
 { warn } = kd
 
-# Attn!!
+# Attn!! test change 
 #
 # This object is designed to be a mixin for IDEAppController.
 #
